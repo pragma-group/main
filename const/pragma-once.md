@@ -130,7 +130,19 @@ Transparency is disclosed methodology, published models, open process. Authority
 
 ---
 
-## 8. THE CHAIR'S CONTRACT
+## 8. THE PRAGMA METAPHOR
+
+A `#pragma` is a compiler directive that is explicitly advisory. The compiler may follow it or ignore it. This is not a defect. It is the design. PRAGMA operates on the same terms. Credibility comes from the quality of the evaluations, not from institutional authority. The moment PRAGMA claims authority, it is no longer a pragma. It is a directive. Directives belong to a different scope.
+
+---
+
+## 9. THE MINIMAL BASE
+
+"We ask for nothing" is PRAGMA's minimal viable scope. If the group later decides it needs a stated goal, that is a scope expansion. It may be justified. But adding scope before the group has demonstrated that single scope produces value is premature. Ship the base. Extend when the evidence supports it.
+
+---
+
+## 10. THE CHAIR'S CONTRACT
 
 The chair operates within Layer 1. The five values are not the chair's to modify.
 
@@ -146,19 +158,101 @@ The chair does not define values. The five "X over Y" statements are preconditio
 
 ---
 
-## 9. THE MINIMAL BASE
+## 11. WHY UNANIMITY
 
-"We ask for nothing" is PRAGMA's minimal viable scope. If the group later decides it needs a stated goal, that is a scope expansion. It may be justified. But adding scope before the group has demonstrated that single scope produces value is premature. Ship the base. Extend when the evidence supports it.
+Published output requires unanimous agreement of all active members. This is not an aspiration. It is a rule. The rule exists because of an asymmetry.
+
+Every false positive is permanent. Every deferral is temporary.
+
+A credibly challenged evaluation damages PRAGMA's credibility with no expiration date. An evaluation deferred to the next cycle costs one cycle. The threshold must protect against the permanent risk, not optimize for throughput.
+
+A dissenter in a group of five is not an obstruction. It is twenty percent of the evaluation engine reporting a fault. Each member was admitted by unanimous consent to fill a specific seat in the evaluation architecture. Overriding that member's judgment with a majority vote defeats the purpose of recruiting the seat.
+
+The defense against bad-faith blocking is at the membership layer, not the publication layer. The admission filter keeps out bad actors. The unanimity rule keeps out bad output. These are different layers solving different problems. Lowering the publication threshold to compensate for a membership failure is solving the wrong problem at the wrong layer.
+
+When unanimity is not reached, the evaluation does not publish. Nobody gets overridden. Nobody gets a permanent veto. The topic is revisited with more data, more research, or structured methods. The deferral is not a loss. The deferral is the quality gate working.
+
+Majority rule selects the average. Unanimity selects the floor. PRAGMA builds on the floor.
+
+The floor of expert opinion is the set of claims no expert in the group can dispute. That is the strongest credibility foundation available to a group that claims no authority. Bolder evaluations come later, after the credibility reserve has compounded. Unanimity forces the group to start with what is indisputable. Starting with what is indisputable is not a limitation. It is the strategy.
+
+[P4023R0](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2026/p4023r0.pdf) ("Strategic Direction for AI in C++") warns that AI-generated "slop" wastes committee time. PRAGMA uses AI-assisted evaluation. Unanimity means every evaluation is verified not by one member but by all of them. That is the strongest answer to the scrutiny the group will face at launch.
+
+**Rule.** Nothing publishes with a dissenter. If unanimity cannot be reached, the evaluation is deferred. The cost of not publishing is bounded. The cost of publishing wrong is not.
 
 ---
 
-## 10. THE PRAGMA METAPHOR
+## 12. WHY THE POLLS ARE CLOSED
 
-A `#pragma` is a compiler directive that is explicitly advisory. The compiler may follow it or ignore it. This is not a defect. It is the design. PRAGMA operates on the same terms. Credibility comes from the quality of the evaluations, not from institutional authority. The moment PRAGMA claims authority, it is no longer a pragma. It is a directive. Directives belong to a different scope.
+PRAGMA publishes evaluation models. Anyone can read them. Anyone can apply them. The straw polls are restricted to members.
+
+This is not an oversight. It is the design.
+
+**The models are the product. The polls are not.** A poll records what the group thinks. The models let anyone reproduce the evaluation independently. A non-member with the models can produce the same evaluation a member produces. The poll adds nothing the models do not already provide.
+
+**Open polls create inertia against self-correction.** PRAGMA's models will have errors. The question is whether the group can fix them. A small founding group that discovers a flaw in its methodology can revise it. The cost is low. The coordination is simple. The revision ships. A group with an open voting population that has adopted the current models as the basis for participation faces a different problem. Revising the models means telling voters that the thing that attracted them was wrong. That is a political act, not an analytical one. The revision stalls. Closed polls preserve the ability to be wrong and fix it. Open polls convert methodological revision into a governance crisis.
+
+**The ratchet runs one direction.** Starting restricted and later opening is a gift. Starting open and later restricting generates backlash. If the models prove sound and the group demonstrates that single scope produces value, opening the polls costs nothing. The evidence supports the expansion. If the models need revision - and they will - the small group revises them without managing an electorate.
+
+**Transparency is in the models, not the polls.** "Transparency over authority" means disclosed methodology, published models, open process. It does not mean open governance. The evaluations, methodology, models, and mailing list are public. Anyone can read, post, challenge, and apply the models independently. A challenge that improves a model shapes every subsequent evaluation. The voice is in the challenge, not the vote. The polls record internal consensus. Internal consensus is useful to the group. It is not the product.
+
+**The models are public so anyone can verify the work. The polls are closed so the group can change its mind.**
+
+**Rule.** Before proposing open polls, ask: what does open voting add that the public models do not already provide? If the answer requires the polls to be the product, the proposal has added a second scope.
 
 ---
 
-## 11. WHAT TO SAY WHEN ASKED INTERNALLY
+## 13. PUBLISH BUT DO NOT PUSH
+
+The same evaluation delivered solicited is a service. Delivered unsolicited, it is an influence attempt. The content is identical. The reception is not.
+
+People instinctively resist unsolicited answers because they have not asked for them. Evaluation that arrives without a question triggers the same immune response as authority that arrives without appointment. The signal is rejected not because it is wrong but because it is uninvited.
+
+PRAGMA publishes evaluations on its website. Anyone can visit. Nobody receives uninvited correspondence. The website is a library, not a pamphleteer.
+
+The evaluation models grow in response to demand. PRAGMA asks working group members what questions they have about proposals. "When discussing a paper, what information would be useful to have available?" The answers calibrate what PRAGMA measures. Asking what to measure is calibration. Asking for permission to measure is dependency. PRAGMA calibrates. PRAGMA does not ask permission.
+
+Grassroots adoption is stronger than top-down targeting. A committee member who bookmarks the site before a telecon has solicited the service. A committee that gives PRAGMA a column in the mailing system has granted the authority. Both arrive on the committee's terms, not on PRAGMA's.
+
+**Rule.** Before sending an evaluation to anyone, ask: did they request it? If not, publish it on the website and wait. The work is available. The push is not.
+
+*Origin: Peter Dimov, February 27, 2026. "It's always better to ask people what they need, instead of supplying it to them unsolicited."*
+
+---
+
+## 14. THE LAKOS PRINCIPLE: NO "OUR" AND NO "SHOULD"
+
+John Lakos, February 26, 2026:
+
+> "Can we not call it 'Our methodology' but 'The xyz methodology'? Our is not just confusing, it's alienating. Principle: No 'our' and no 'should.' Because they are confusing, alienating, and not effective at their purpose."
+
+**"Our"** creates an in-group/out-group boundary. Replace with "the" or "PRAGMA's." A document designed to be open does not linguistically exclude the reader.
+
+**"Should"** implies authority over the reader. "Proposals should demonstrate field experience" is a directive. "The PRAGMA evaluation checks for field experience" is a disclosure. Directives belong to a different scope.
+
+**Test.** Before publishing any PRAGMA document, search for "our" and "should." Each instance is a candidate for replacement.
+
+---
+
+## 15. THE PRIVATE LIST
+
+The founding document describes one public mailing list. Deliberation, straw polls, and evaluations happen there openly.
+
+PRAGMA also requires a private mailing list.
+
+**The ISO constraint.** WG21 participants are bound by confidentiality obligations. Reflector discussions, meeting deliberations, and draft working papers are not public until formally published. PRAGMA members who participate in WG21 need to discuss how committee proceedings relate to evaluations. That discussion cannot happen on a public list.
+
+**The private list.** Restricted to verified WG21 members. Committee context that informs evaluations but cannot be published is discussed here: session room observations, reflector threads, NB comments, straw poll implications.
+
+**Why WG21 members only.** If the private list discusses committee-confidential information, every participant must be bound by the same confidentiality obligations. Restrict to people already bound by ISO rules. This is a constraint ISO imposes, not a choice PRAGMA makes.
+
+**The ratchet principle.** Start restricted, loosen later if appropriate. Starting restricted and later opening is a gift. Starting open and later restricting generates backlash. The conservative choice is the reversible one.
+
+**Consistency with single scope.** The public list remains open. The evaluations remain public. The methodology remains disclosed. The private list exists because ISO rules require it.
+
+---
+
+## 16. WHAT TO SAY WHEN ASKED INTERNALLY
 
 **"Shouldn't we say what we're trying to do?"**
 The principles reflect the group's consensus on sound evaluation criteria. The process applies those principles with maximum credibility. The principles are opinionated. The process is not.
@@ -177,7 +271,7 @@ The principles already encode that concern. It does not need to be an operationa
 
 ---
 
-## 12. COMMON QUESTIONS FROM OUTSIDERS
+## 17. COMMON QUESTIONS FROM OUTSIDERS
 
 Do not improvise. Every improvised answer risks expanding scope. These answers keep the scope single.
 
@@ -212,97 +306,3 @@ Do not improvise. Every improvised answer risks expanding scope. These answers k
 "Then the work failed to be credible. The remedy is to improve the credibility of the work, not to increase the volume of demands."
 
 **Rule.** Memorize the answer to "What are you trying to achieve?" It will be asked most often and improvised answers are most dangerous there. The answer is: "Sound principles. Credible process."
-
----
-
-## 13. THE LAKOS PRINCIPLE: NO "OUR" AND NO "SHOULD"
-
-John Lakos, February 26, 2026:
-
-> "Can we not call it 'Our methodology' but 'The xyz methodology'? Our is not just confusing, it's alienating. Principle: No 'our' and no 'should.' Because they are confusing, alienating, and not effective at their purpose."
-
-**"Our"** creates an in-group/out-group boundary. Replace with "the" or "PRAGMA's." A document designed to be open does not linguistically exclude the reader.
-
-**"Should"** implies authority over the reader. "Proposals should demonstrate field experience" is a directive. "The PRAGMA evaluation checks for field experience" is a disclosure. Directives belong to a different scope.
-
-**Test.** Before publishing any PRAGMA document, search for "our" and "should." Each instance is a candidate for replacement.
-
----
-
-## 14. THE PRIVATE LIST
-
-The founding document describes one public mailing list. Deliberation, straw polls, and evaluations happen there openly.
-
-PRAGMA also requires a private mailing list.
-
-**The ISO constraint.** WG21 participants are bound by confidentiality obligations. Reflector discussions, meeting deliberations, and draft working papers are not public until formally published. PRAGMA members who participate in WG21 need to discuss how committee proceedings relate to evaluations. That discussion cannot happen on a public list.
-
-**The private list.** Restricted to verified WG21 members. Committee context that informs evaluations but cannot be published is discussed here: session room observations, reflector threads, NB comments, straw poll implications.
-
-**Why WG21 members only.** If the private list discusses committee-confidential information, every participant must be bound by the same confidentiality obligations. Restrict to people already bound by ISO rules. This is a constraint ISO imposes, not a choice PRAGMA makes.
-
-**The ratchet principle.** Start restricted, loosen later if appropriate. Starting restricted and later opening is a gift. Starting open and later restricting generates backlash. The conservative choice is the reversible one.
-
-**Consistency with single scope.** The public list remains open. The evaluations remain public. The methodology remains disclosed. The private list exists because ISO rules require it.
-
----
-
-## 15. WHY THE POLLS ARE CLOSED
-
-PRAGMA publishes evaluation models. Anyone can read them. Anyone can apply them. The straw polls are restricted to members.
-
-This is not an oversight. It is the design.
-
-**The models are the product. The polls are not.** A poll records what the group thinks. The models let anyone reproduce the evaluation independently. A non-member with the models can produce the same evaluation a member produces. The poll adds nothing the models do not already provide.
-
-**Open polls create inertia against self-correction.** PRAGMA's models will have errors. The question is whether the group can fix them. A small founding group that discovers a flaw in its methodology can revise it. The cost is low. The coordination is simple. The revision ships. A group with an open voting population that has adopted the current models as the basis for participation faces a different problem. Revising the models means telling voters that the thing that attracted them was wrong. That is a political act, not an analytical one. The revision stalls. Closed polls preserve the ability to be wrong and fix it. Open polls convert methodological revision into a governance crisis.
-
-**The ratchet runs one direction.** Starting restricted and later opening is a gift. Starting open and later restricting generates backlash. If the models prove sound and the group demonstrates that single scope produces value, opening the polls costs nothing. The evidence supports the expansion. If the models need revision - and they will - the small group revises them without managing an electorate.
-
-**Transparency is in the models, not the polls.** "Transparency over authority" means disclosed methodology, published models, open process. It does not mean open governance. The evaluations, methodology, models, and mailing list are public. Anyone can read, post, challenge, and apply the models independently. A challenge that improves a model shapes every subsequent evaluation. The voice is in the challenge, not the vote. The polls record internal consensus. Internal consensus is useful to the group. It is not the product.
-
-**The models are public so anyone can verify the work. The polls are closed so the group can change its mind.**
-
-**Rule.** Before proposing open polls, ask: what does open voting add that the public models do not already provide? If the answer requires the polls to be the product, the proposal has added a second scope.
-
----
-
-## 16. PUBLISH BUT DO NOT PUSH
-
-The same evaluation delivered solicited is a service. Delivered unsolicited, it is an influence attempt. The content is identical. The reception is not.
-
-People instinctively resist unsolicited answers because they have not asked for them. Evaluation that arrives without a question triggers the same immune response as authority that arrives without appointment. The signal is rejected not because it is wrong but because it is uninvited.
-
-PRAGMA publishes evaluations on its website. Anyone can visit. Nobody receives uninvited correspondence. The website is a library, not a pamphleteer.
-
-The evaluation models grow in response to demand. PRAGMA asks working group members what questions they have about proposals. "When discussing a paper, what information would be useful to have available?" The answers calibrate what PRAGMA measures. Asking what to measure is calibration. Asking for permission to measure is dependency. PRAGMA calibrates. PRAGMA does not ask permission.
-
-Grassroots adoption is stronger than top-down targeting. A committee member who bookmarks the site before a telecon has solicited the service. A committee that gives PRAGMA a column in the mailing system has granted the authority. Both arrive on the committee's terms, not on PRAGMA's.
-
-**Rule.** Before sending an evaluation to anyone, ask: did they request it? If not, publish it on the website and wait. The work is available. The push is not.
-
-*Origin: Peter Dimov, February 27, 2026. "It's always better to ask people what they need, instead of supplying it to them unsolicited."*
-
----
-
-## 17. WHY UNANIMITY
-
-Published output requires unanimous agreement of all active members. This is not an aspiration. It is a rule. The rule exists because of an asymmetry.
-
-Every false positive is permanent. Every deferral is temporary.
-
-A credibly challenged evaluation damages PRAGMA's credibility with no expiration date. An evaluation deferred to the next cycle costs one cycle. The threshold must protect against the permanent risk, not optimize for throughput.
-
-A dissenter in a group of five is not an obstruction. It is twenty percent of the evaluation engine reporting a fault. Each member was admitted by unanimous consent to fill a specific seat in the evaluation architecture. Overriding that member's judgment with a majority vote defeats the purpose of recruiting the seat.
-
-The defense against bad-faith blocking is at the membership layer, not the publication layer. The admission filter keeps out bad actors. The unanimity rule keeps out bad output. These are different layers solving different problems. Lowering the publication threshold to compensate for a membership failure is solving the wrong problem at the wrong layer.
-
-When unanimity is not reached, the evaluation does not publish. Nobody gets overridden. Nobody gets a permanent veto. The topic is revisited with more data, more research, or structured methods. The deferral is not a loss. The deferral is the quality gate working.
-
-Majority rule selects the average. Unanimity selects the floor. PRAGMA builds on the floor.
-
-The floor of expert opinion is the set of claims no expert in the group can dispute. That is the strongest credibility foundation available to a group that claims no authority. Bolder evaluations come later, after the credibility reserve has compounded. Unanimity forces the group to start with what is indisputable. Starting with what is indisputable is not a limitation. It is the strategy.
-
-[P4023R0](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2026/p4023r0.pdf) ("Strategic Direction for AI in C++") warns that AI-generated "slop" wastes committee time. PRAGMA uses AI-assisted evaluation. Unanimity means every evaluation is verified not by one member but by all of them. That is the strongest answer to the scrutiny the group will face at launch.
-
-**Rule.** Nothing publishes with a dissenter. If unanimity cannot be reached, the evaluation is deferred. The cost of not publishing is bounded. The cost of publishing wrong is not.
