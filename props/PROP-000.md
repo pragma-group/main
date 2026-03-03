@@ -85,7 +85,7 @@ Any PRAGMA Group member can propose a PROP by opening a pull request to the repo
 
 ### Consensus
 
-Discussion happens on the mailing list, not on the pull request. Pull request comments are proprietary to the hosting platform and can be lost; the mailing list is the permanent record. The chair mediates discussion on the list and conducts straw polls there. Disagreements are recorded in the PROP itself before merging. Adoption requires consensus, not unanimity. The chair discovers consensus; the chair does not impose it. Merging the pull request enacts the PROP.
+Discussion happens on the mailing list, not on the pull request. Pull request comments are proprietary to the hosting platform and can be lost; the mailing list is the permanent record. The chair mediates discussion on the list and conducts straw polls there. Disagreements are recorded in the PROP itself before merging. Adoption requires unanimity of all active members. When unanimity is not reached, the PROP is deferred. The chair discovers unanimity; the chair does not impose it. Merging the pull request enacts the PROP.
 
 ### What a PROP Can Modify
 

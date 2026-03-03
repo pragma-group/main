@@ -38,7 +38,7 @@ The principles reflect the group's consensus on sound evaluation criteria. The p
 
 **Cadence.** One evaluation cycle per WG21 mailing. Evaluations are published on the PRAGMA website between the mailing and the meeting. No evaluations are submitted to the WG21 mailing or sent to members unless requested. PRAGMA publishes. PRAGMA does not push.
 
-**Consensus.** WG21-style process with a chair and straw polls. Disagreements are recorded. The chair discovers consensus; the chair does not impose it.
+**Unanimity.** Published output requires unanimous agreement of all active members. When unanimity is not reached, the evaluation is deferred. Disagreements are recorded. The chair discovers unanimity; the chair does not impose it.
 
 **Two-stream architecture.**
 

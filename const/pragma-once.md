@@ -282,3 +282,27 @@ Grassroots adoption is stronger than top-down targeting. A committee member who 
 **Rule.** Before sending an evaluation to anyone, ask: did they request it? If not, publish it on the website and wait. The work is available. The push is not.
 
 *Origin: Peter Dimov, February 27, 2026. "It's always better to ask people what they need, instead of supplying it to them unsolicited."*
+
+---
+
+## 17. WHY UNANIMITY
+
+Published output requires unanimous agreement of all active members. This is not an aspiration. It is a rule. The rule exists because of an asymmetry.
+
+Every false positive is permanent. Every deferral is temporary.
+
+A credibly challenged evaluation damages PRAGMA's credibility with no expiration date. An evaluation deferred to the next cycle costs one cycle. The threshold must protect against the permanent risk, not optimize for throughput.
+
+A dissenter in a group of five is not an obstruction. It is twenty percent of the evaluation engine reporting a fault. Each member was admitted by unanimous consent to fill a specific seat in the evaluation architecture. Overriding that member's judgment with a majority vote defeats the purpose of recruiting the seat.
+
+The defense against bad-faith blocking is at the membership layer, not the publication layer. The admission filter keeps out bad actors. The unanimity rule keeps out bad output. These are different layers solving different problems. Lowering the publication threshold to compensate for a membership failure is solving the wrong problem at the wrong layer.
+
+When unanimity is not reached, the evaluation does not publish. Nobody gets overridden. Nobody gets a permanent veto. The topic is revisited with more data, more research, or structured methods. The deferral is not a loss. The deferral is the quality gate working.
+
+Majority rule selects the average. Unanimity selects the floor. PRAGMA builds on the floor.
+
+The floor of expert opinion is the set of claims no expert in the group can dispute. That is the strongest credibility foundation available to a group that claims no authority. Bolder evaluations come later, after the credibility reserve has compounded. Unanimity forces the group to start with what is indisputable. Starting with what is indisputable is not a limitation. It is the strategy.
+
+[P4023R0](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2026/p4023r0.pdf) ("Strategic Direction for AI in C++") warns that AI-generated "slop" wastes committee time. PRAGMA uses AI-assisted evaluation. Unanimity means every evaluation is verified not by one member but by all of them. That is the strongest answer to the scrutiny the group will face at launch.
+
+**Rule.** Nothing publishes with a dissenter. If unanimity cannot be reached, the evaluation is deferred. The cost of not publishing is bounded. The cost of publishing wrong is not.

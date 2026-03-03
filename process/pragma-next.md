@@ -8,7 +8,7 @@ Operational living document for the PRAGMA Group.
 
 The PRAGMA Group has three documents:
 
-- **pragma.md** - The founding document. What PRAGMA is. Public-facing. Changes slowly through group consensus.
+- **pragma.md** - The founding document. What PRAGMA is. Public-facing. Changes slowly through group unanimity.
 - **pragma-once.md** - The strategy document. Why PRAGMA operates the way it does. Internal. The argument behind the posture.
 - **pragma-next.md** - This document. The operational log. What the group has decided, what is open, what comes next. Internal. Changes rapidly, especially in the early period.
 
@@ -32,7 +32,7 @@ This document captures transient knowledge: operational principles from delibera
 - Process observations and lessons learned
 
 **What does NOT belong here:**
-- Changes to the founding document (those go through group consensus applied to pragma.md)
+- Changes to the founding document (those go through group unanimity applied to pragma.md)
 - Strategy reasoning (that lives in pragma-once.md)
 - Evaluation outputs (those go in Stream 2 papers)
 
