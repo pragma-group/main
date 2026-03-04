@@ -134,4 +134,8 @@ Decisions made by the group, recorded with date and rationale.
 
 **February 26, 2026:** The founding document makes evaluation models explicitly reusable: "disclosed, so anyone can verify, challenge, or apply them with different principles." (Proposed by Joshua Berne.)
 
-**February 26, 2026:** The founding document simplifies to one public mailing list. Private list rationale documented in pragma-once.md Section 12.
+**February 26, 2026:** The founding document simplifies to one public mailing list. Private list rationale documented in pragma-once.md Section 15.
+
+**March 3, 2026:** Straw polls require unanimity for all published output (evaluations, position papers, PROPs, document changes). Operational polls are informative; the chair calls the result. (Proposed by Vinnie Falco, confirmed by John Lakos and Joshua Berne.)
+
+**March 3, 2026:** Poll transparency and anonymity design adopted. Output poll numbers are published. Deferral rationale is published anonymously, attributed to the group. Individual attribution is voluntary. The solidarity principle: the group stands behind both its agreements and its disagreements as a unit. (Proposed by Joshua Berne, adopted by the group.)

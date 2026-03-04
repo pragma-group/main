@@ -40,6 +40,8 @@ The principles reflect the group's consensus on sound evaluation criteria. The p
 
 **Unanimity.** Published output requires unanimous agreement of all active members. When unanimity is not reached, the evaluation is deferred. Disagreements are recorded. The chair discovers unanimity; the chair does not impose it.
 
+**Poll taxonomy.** Polls that change standing documents or publications require unanimity. All other polls are informative; the chair calls the result. When a publication is deferred, the dissent rationale is published anonymously and attributed to the group.
+
 **Two-stream architecture.**
 
 - **Stream 1:** Papers describing the principles, rules, rationale, and consensus history. They grow as the group produces evaluations.

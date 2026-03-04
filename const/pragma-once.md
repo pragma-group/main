@@ -182,23 +182,25 @@ The floor of expert opinion is the set of claims no expert in the group can disp
 
 ---
 
-## 12. WHY THE POLLS ARE CLOSED
+## 12. POLL TRANSPARENCY AND ANONYMITY
 
-PRAGMA publishes evaluation models. Anyone can read them. Anyone can apply them. The straw polls are restricted to members.
+Poll participation is restricted to active members. Non-members do not vote. The restriction exists because open voting populations create inertia against self-correction: revising the methodology becomes a governance crisis instead of an analytical act.
 
-This is not an oversight. It is the design.
+Poll results are partially disclosed. The reasoning is public. The identities are not.
 
-**The models are the product. The polls are not.** A poll records what the group thinks. The models let anyone reproduce the evaluation independently. A non-member with the models can produce the same evaluation a member produces. The poll adds nothing the models do not already provide.
+**Two poll types.** Output polls - any poll that changes standing documents or publications - require unanimity. Operational polls - prioritization, scheduling, process questions - are informative. The chair calls the result. Unanimity on operational matters is counterproductive; no member needs to feel pressure over which proposals to discuss first.
 
-**Open polls create inertia against self-correction.** PRAGMA's models will have errors. The question is whether the group can fix them. A small founding group that discovers a flaw in its methodology can revise it. The cost is low. The coordination is simple. The revision ships. A group with an open voting population that has adopted the current models as the basis for participation faces a different problem. Revising the models means telling voters that the thing that attracted them was wrong. That is a political act, not an analytical one. The revision stalls. Closed polls preserve the ability to be wrong and fix it. Open polls convert methodological revision into a governance crisis.
+**Output poll numbers are published.** The count is visible. The names behind the count are not.
 
-**The ratchet runs one direction.** Starting restricted and later opening is a gift. Starting open and later restricting generates backlash. If the models prove sound and the group demonstrates that single scope produces value, opening the polls costs nothing. The evidence supports the expansion. If the models need revision - and they will - the small group revises them without managing an electorate.
+**Deferral rationale is published anonymously.** When an output poll does not reach unanimity, the dissent rationale is published and attributed to the group: "PRAGMA deferred evaluation of P1234 because concern Y was raised about the results under consideration." Not "because Member X raised concern Y." The reasoning is disclosed. The identity is not.
 
-**Transparency is in the models, not the polls.** "Transparency over authority" means disclosed methodology, published models, open process. It does not mean open governance. The evaluations, methodology, models, and mailing list are public. Anyone can read, post, challenge, and apply the models independently. A challenge that improves a model shapes every subsequent evaluation. The voice is in the challenge, not the vote. The polls record internal consensus. Internal consensus is useful to the group. It is not the product.
+**Individual attribution is voluntary.** A member who wants to attach a name to a dissent may do so. A member who does not is never required to. The default is anonymous.
 
-**The models are public so anyone can verify the work. The polls are closed so the group can change its mind.**
+**The solidarity principle.** Anonymous dissent signals that the group stands behind both its agreements and its disagreements as a unit. The group does not fracture into a majority and a named dissenter. The group defers, together, until the concern is resolved. The unanimity rule means every publication carries every name. Anonymous dissent means every deferral carries no name. Both are expressions of the same principle: the group acts as a group.
 
-**Rule.** Before proposing open polls, ask: what does open voting add that the public models do not already provide? If the answer requires the polls to be the product, the proposal has added a second scope.
+**The models remain the product.** The polls remain internal governance. The reasoning behind deferrals is disclosed because transparency requires it. The identities behind deferrals are not disclosed because solidarity requires it. These are independent dimensions.
+
+**Rule.** Deferrals are attributed to the group. Individual attribution is voluntary. The reasoning is always published. The identity is never required.
 
 ---
 
