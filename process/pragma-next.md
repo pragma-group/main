@@ -90,9 +90,9 @@ These are principles proposed or adopted through group deliberation. Each is tag
 
 Items deferred to the first meeting or future deliberation.
 
-**The two-layer question.** Which principles belong in a fixed category and which evolve? Lakos and Berne have different positions. pragma-once.md Section 5 frames the question. The group must deliberate.
+~~**The two-layer question.** Which principles belong in a fixed category and which evolve? Lakos and Berne have different positions. pragma-once.md Section 5 frames the question. The group must deliberate.~~ Resolved March 3, 2026. Layer 0 (founding values in `const/`) is fixed; the Value Seal tracks it. Layer 1 (evaluation methodology) evolves under the chair's latitude. The unanimity rule, poll taxonomy, and chair's contract all codify the distinction.
 
-**Membership criteria.** Who qualifies as a member? What are expectations? How does someone join? (Berne raised, deferred to meeting.)
+~~**Membership criteria.** Who qualifies as a member? What are expectations? How does someone join? (Berne raised, deferred to meeting.)~~ Partially resolved. PROP-003 defines size cap (9), inactivity timeout (3 cycles), emeritus status. The disclosure principle (affiliation + roles) is codified in pragma-pack.md and pragma-once.md Section 18. Still open: the specific process for how a new member is admitted beyond "unanimous consent of active members."
 
 **Chair appointment.** Berne has been proposed. The chair discovers consensus; the chair does not impose it. Must be formalized at the first meeting.
 
