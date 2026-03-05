@@ -3,6 +3,7 @@ members:
   - name: John Lakos
     email: jlakos@bloomberg.net
     affiliation: Bloomberg LP
+    github: jslakos
     status: active
     roles:
       - Large-Scale Deployment
@@ -10,6 +11,7 @@ members:
   - name: Joshua Berne
     email: jberne4@bloomberg.net
     affiliation: Bloomberg LP
+    github: notadragon
     status: active
     roles:
       - Language Specification
@@ -17,6 +19,7 @@ members:
   - name: Pablo Halpern
     email: pablo@halpern.dev
     affiliation: Bloomberg LP
+    github: phalpern
     status: active
     roles:
       - Library Architecture
@@ -24,6 +27,7 @@ members:
   - name: Harold Bott
     email: harry@cppalliance.org
     affiliation: C++ Alliance
+    github: bottha123
     status: active
     roles:
       - Performance Engineering
@@ -31,6 +35,7 @@ members:
   - name: Mungo Gill
     email: mungo@cppalliance.org
     affiliation: C++ Alliance
+    github: MungoG
     status: active
     roles:
       - Large-Scale Deployment
@@ -52,8 +57,8 @@ Welcome. Everything here is meant to be read.
 | Name           | Affiliation    | Status | Roles                                            |
 |----------------|----------------|--------|--------------------------------------------------|
 | John Lakos     | Bloomberg LP   | Active | Large-Scale Deployment, Safety & Correctness     |
-| Joshua Berne   | Bloomberg LP   | Active | Language Specification, Library Architecture      |
-| Pablo Halpern  | Bloomberg LP   | Active | Library Architecture, Concurrency & Systems       |
+| Joshua Berne   | Bloomberg LP   | Active | Language Specification, Library Architecture     |
+| Pablo Halpern  | Bloomberg LP   | Active | Library Architecture, Concurrency & Systems      |
 | Harold Bott    | C++ Alliance   | Active | Performance Engineering, Pedagogy & Teachability |
 | Mungo Gill     | C++ Alliance   | Active | Large-Scale Deployment, Pedagogy & Teachability  |
 
